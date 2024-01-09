@@ -1,0 +1,109 @@
+
+.banner-image{
+    background-image: url('../B9A1-New-Year-New-Mission/resources/BannerImage.png');
+    height: 600px;
+    width: 1320px;
+    text-align: center;
+    color: white;
+    border-radius: 16px;
+    border: 1px solid #000;
+}
+
+.banner-image>.heading3{
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 32px;
+    font-style: normal;
+    line-height: normal;
+    padding-top: 100px;
+}
+.banner-image>.heading1{
+    color: #FFF;
+    text-align: center;
+    font-family: Merriweather;
+    font-size: 72px;
+    font-style: normal;
+}
+.discount-text{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding: 0;
+}
+
+.deals-text{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    padding: 0;
+}
+.category{
+    color: #070211;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.new-year-section{
+    background-image: url('../B9A1-New-Year-New-Mission/resources/NewYearPhoto.png');
+    width: 803px;
+    height: 500px;
+    align-content: center;
+    fill: lightgray;
+    background-repeat: no-repeat;
+    padding: 50px 50px 50px 50px;
+}
+
+.midnight-party{
+    background-image: url('../B9A1-New-Year-New-Mission/resources/Vectorrr.png');
+    width: 1320px;
+    height: 600px;
+    padding-top: 100px;
+    background-repeat: no-repeat;
+    padding: 50px 50px 50px 50px;
+}
+.midnight-party-text{
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 900;
+    letter-spacing: 7.04px;
+    text-align: left;
+
+}
+
+.party-text{
+    color: white;
+    font-family: Inter;
+    font-size: 18px;
+    padding: 0;
+    width: 697px;
+    height: 60px;
+    text-align: left;
+}
+
+.venue{
+    background-color: antiquewhite;
+    width: 1320px;
+    height: 482px;
+    text-align: center;
+    align-content: center;
+    font-size: 30px;
+}
+.venue-text{
+    color: #FF0000;
+}
+
